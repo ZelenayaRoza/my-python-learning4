@@ -15,6 +15,3 @@ while command:
         print('Задача добавлена')
     elif command == 'show':
         print(tasks)
-    else:
-        print('Неизвестная команда')
-        break  
